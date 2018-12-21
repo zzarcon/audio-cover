@@ -1,4 +1,4 @@
-# audio-cover [![Build Status](https://travis-ci.org/zzarcon/audio-cover.svg?branch=master)](https://travis-ci.org/zzarcon/audio-cover)
+# audio-cover [![Build Status](https://travis-ci.org/zzarcon/audio-cover.svg?branch=master)](https://travis-ci.org/zzarcon/audio-cover) [DEMO](https://zzarcon.github.io/audio-cover)
 > Get the cover from an audio file in the browser
 
 ### Installation
@@ -6,6 +6,10 @@
 ```
 $ yarn add audio-cover
 ```
+
+### Demo
+
+[https://zzarcon.github.io/audio-cover](https://zzarcon.github.io/audio-cover)
 
 ### Usage
 
