@@ -1,6 +1,6 @@
 {
   "name": "audio-cover",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "dist/es5/index.js",
   "repository": "git@github.com:zzarcon/audio-cover.git",
   "author": "Hector Leon Zarco Garcia <hezarco@gmail.com>",
