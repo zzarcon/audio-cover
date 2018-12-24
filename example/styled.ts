@@ -12,5 +12,9 @@ injectGlobal`
 `;
 
 export const AppWrapper = styled.div`
+  text-align: center;
 
+  pre {
+    text-align: left;
+  }
 `;

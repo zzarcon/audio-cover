@@ -7,10 +7,14 @@
   "license": "MIT",
   "description": "Get the cover from an audio file in the browser",
   "devDependencies": {
+    "@atlaskit/button": "^10.1.1",
+    "@atlaskit/icon": "^15.0.3",
+    "react-cute": "^1.0.2",
+    "react-stylish-input": "^0.0.2",
     "ts-react-toolbox": "^0.2.2"
   },
   "dependencies": {
-    "jsmediatags": "^3.8.1"
+    "jsmediatags-web": "^0.0.4"
   },
   "engines": {
     "node": ">=8.5.0"

@@ -1,5 +1,5 @@
 // TODO: codesplit
-import * as jsmediatags from 'jsmediatags/dist/jsmediatags';
+import * as jsmediatags from 'jsmediatags-web';
 import { FileInfo } from './domain';
 
 export const getAudioCover = (file: File): Promise<string> => {
